@@ -89,9 +89,10 @@ GUI-based version (using JavaFX/Swing) 🎨
 3. Return a Book
 4. View Issued Books
 5. View My Borrowed Books
+6. Exit
 
 [![Run in Repl.it](https://img.shields.io/badge/Run%20Console%20App-Click%20Here-brightgreen?logo=replit)](https://replit.com/~)
-7. Exit
+
 
 Enter your choice:
 👨‍💻 Author
