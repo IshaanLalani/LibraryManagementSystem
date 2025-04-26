@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1529070538774-1843cb3265df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Library Banner" style="width:80%; border-radius: 10px;">
+</p>
+
 📚 Library Management System
 
 🛠️ Project Overview
